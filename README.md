@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravishka Vijayarathna</h1>
+<h1 align="center">Hi 👋, I'm Ravishka Wijerathna</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47o9lqr2nnbjs7nyrypws3g8ey9cd4kgad0vcsyrye&rid=giphy.gif&ct=g">
 
