@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravishka Wijerathna</h1>
-<h3 align="center">A passionate fullstack developer from sl</h3>
+<h3 align="center">A passionate fullstack developer from SL</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47o9lqr2nnbjs7nyrypws3g8ey9cd4kgad0vcsyrye&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ichamodravishka&label=Profile%20views&color=0e75b6&style=flat" alt="ichamodravishka" /> </p>
